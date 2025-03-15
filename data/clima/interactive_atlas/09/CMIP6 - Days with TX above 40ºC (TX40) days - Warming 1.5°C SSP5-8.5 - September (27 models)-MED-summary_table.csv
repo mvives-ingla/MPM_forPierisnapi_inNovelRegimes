@@ -1,0 +1,7 @@
+Period,Scenario,Median,P25,P75,P10,P90,P5,P95
+"Warming 1.5°C","SSP5-8.5",0.4,0.2,1.0,0.1,1.9,0.1,4.1
+"Warming 2°C","SSP5-8.5",0.8,0.3,1.4,0.2,2.6,0.1,4.8
+"Warming 3°C","SSP5-8.5",1.5,0.8,2.3,0.5,4.2,0.4,6.4
+"Warming 4°C","SSP5-8.5",2.4,1.2,2.8,0.9,3.4,0.8,3.5
+
+CMIP6 - Days with TX above 40ºC (TX40)  days - Warming 1.5°C SSP5-8.5  - September (27 models)-MED

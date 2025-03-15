@@ -1,0 +1,10 @@
+Period,Scenario,Median,P25,P75,P10,P90,P5,P95
+"Preindustrial (1850-1900)","Historical",NaN,NaN,NaN,NaN,NaN,NaN,NaN
+"WMO (1961-1990)","Historical",2.9,2.8,3.0,2.8,3.1,2.7,3.1
+"1961-2015","Historical",3.1,3.1,3.2,3.0,3.2,3.0,3.3
+"1980-2015","Historical",3.3,3.2,3.4,3.2,3.4,3.1,3.5
+"WMO (1981-2010)","Historical",3.2,3.2,3.3,3.1,3.3,3.1,3.4
+"AR5 (1986-2005)","Historical",3.2,3.2,3.3,3.2,3.3,3.1,3.4
+"AR6 (1995-2014)","Historical",3.5,3.4,3.6,3.4,3.7,3.3,3.7
+
+CMIP6 - Bias Adjusted TX35  days - 1981-2010   - June (26 models)-MED

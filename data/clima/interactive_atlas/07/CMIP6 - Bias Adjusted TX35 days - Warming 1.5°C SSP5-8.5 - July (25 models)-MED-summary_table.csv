@@ -1,0 +1,7 @@
+Period,Scenario,Median,P25,P75,P10,P90,P5,P95
+"Warming 1.5°C","SSP5-8.5",7.6,7.1,8.2,6.8,8.5,6.8,8.6
+"Warming 2°C","SSP5-8.5",8.8,8.4,9.5,7.7,9.9,7.6,10.1
+"Warming 3°C","SSP5-8.5",11.1,10.3,11.9,9.6,12.2,9.4,12.8
+"Warming 4°C","SSP5-8.5",13.4,12.5,14.2,11.8,15.2,11.3,15.4
+
+CMIP6 - Bias Adjusted TX35  days - Warming 1.5°C SSP5-8.5  - July (25 models)-MED

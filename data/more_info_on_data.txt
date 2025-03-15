@@ -1,0 +1,62 @@
+More information about the data used in Vives-Ingla, M., Capdevila, P., Clements, C. F., Stefanescu, C., & Carnicer, J. (2025). Novel regimes of extreme climatic events trigger negative population rates in a common insect. Global Change Biology.
+
+- microclimate_data.csv: hourly temperatures recorded in the rearing partly-shaded (OC) microhabitats with lascar data loggers.  
+	+ site: CJ (mid-elevatiom), AE (lowland)
+	+ date (dd/mm/yyyy)
+	+ time (CET)
+	+ temp: temperature (ºC)
+	+ sensor: code specifying each sensor (i.e. each microsite)
+
+- TDT_experiment.txt: thermal death times of P. napi larvae in heat tolerance assays
+	+ date: date of the experiment (dd/mm/yyyy)
+	+ treatment: programmed temperature in the water bath (40, 42 or 44 ºC)
+	+ Site: place of origin of the female adult butterflies (AE: lowland, CJ: mid-elevation)
+	+ family: family code
+	+ aprox_minute_dead: time of death (min)
+	+ log_min_death: log10 of the time of death 
+
+- future_mortalities.csv: predicted values of daily thermal mortality obtained with the TDT dynamic model from a random subset of microclimatic records.   
+	+ ta: temperature at the end of the day (ºC)
+	+ time: time at the end of the day (CET)
+	+ alive: survival probability at the end of the day
+	+ tmax: daily maximum temperature (ºC)
+	+ mort: daily mortality rate
+	+ tmax_group: non-extreme (tmax < 35ºC), 35 (35 =< tmax < 40), 40 (tmax >= 40, LLHI)
+	+ sensor: code specifying each sensor (i.e. each microsite)
+
+ - *_extreme_prob.csv__: estimated values for current and future probabilities of heat microclimatic events.  
+	+ site: lowl (lowland), mide (mid-elevation)
+	+ period: g1g2 (spring genration), g2g3 (summer generation), g3g4 (late summer generation)
+	+ model: CMIP6 or CORDEX Europe (more info in the interactive atlas documentation)
+	+ Bias_adjust: T/F (more info in the interactive atlas documentation)
+	+ TX: extreme heat event (tmax > 35), LLHI extreme heat event (tmax > 40)
+	+ prob_occ: probability of extreme event
+	+ prop_change: factor of increase of extreme event probability relative to current probabilities
+
+- growth_chamber_experiments.csv: observations from the growth chamber experiments monitoring the offspring of 11 <i>P. napi</i> females. 
+	+ unique_id: code identifying each individual
+	+ experiment: spring (regular conditions), autumn (plant-scarcity conditions) 
+	+ total_cycle: days from egg laying since adult eclosion from pupae
+	+ Treatment: 20 or 25 ºC
+	+ PtoA: the individual arrived to the adult stage
+	+ LtoP: the individual arrived to the pupal stage
+	+ Egg_period: days at the egg stage
+	+ Larval_period: days at the larval stage
+	+ Egg_laying: date when the egg was laid (dd/mm/yy)
+
+- mean_daily_fec_articles.csv: fecundity rates of P. napi females extracted from various published articles.
+	+ article_fig: code specifying the article and figure fecundity estimates come from. Articles are:
+		+ Friberg, M., Posledovich, D., & Wiklund, C. (2015). Decoupling of female host plant preference and offspring performance in relative specialist and generalist butterflies. Oecologia, 178(4), 1181–1192. https://doi.org/10.1007/s00442-015-3286-6
+		+ Larsdotter-Mellström, H., Friberg, M., Borg-Karlson, A. K., Murtazina, R., Palm, M., & Wiklund, C. (2010). Seasonal polyphenism in life history traits: Time costs of direct development in a butterfly. Behavioral Ecology and Sociobiology, 64(9), 1377–1383. https://doi.org/10.1007/s00265-010-0952-x
+		+ Ohsaki, N. (1980). Comparative population studies of three Pieris butterflies, P. rapae, P. melete and P. napi, living in the same area. II. Utilization of patchy habitats by adults through migratory and non-migratory movements. Population Ecology, 22(1), 163–183. https://doi.org/10.1007/BF02513543
+		+ Välimäki, P., Kaitala, A., & Kokko, H. (2006). Temporal patterns in reproduction may explain variation in mating frequencies in the green-veined white butterfly Pieris napi. Behavioral Ecology and Sociobiology, 61(1), 99–107. https://doi.org/10.1007/s00265-006-0240-y
+		+ Wiklund, C., Kaitala, A., Lindfors, V., & Abenius, J. (1993). Polyandry and its effects on female reproduction in the green-veined butterfly (Pieris napi L .). Behavioral Ecology and Sociobiology, 33, 25–33. https://doi.org/10.1007/BF00164343
+	+ day: adult age in days
+	+ daily_eggs: mean number of eggs laid per female (it includes both future males and females)
+	+ dvt: developmental path of the females. diap (diapausing females), direct (directly-developed females)
+	+ mat_system: mating system. mono (monandrous), poly (polyandrous)
+
+ - ad_survival_oleracea: adult survival rates of P. oleracea females extracted from Kerr et al. 2020 Popul. Ecol. 62(1).
+	+ day: adult age since pupal eclosion (days)
+	+ mean: survival rate
+	+ ci: confidence interval of the estimated survival rate

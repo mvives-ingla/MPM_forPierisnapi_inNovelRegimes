@@ -1,0 +1,10 @@
+Period,Scenario,Median,P25,P75,P10,P90,P5,P95
+"Preindustrial (1850-1900)","Historical",NaN,NaN,NaN,NaN,NaN,NaN,NaN
+"WMO (1961-1990)","Historical",1.6,1.5,1.6,1.4,1.7,1.4,1.7
+"1961-2015","Historical",1.8,1.7,1.8,1.7,1.8,1.7,1.8
+"1980-2015","Historical",1.8,1.8,1.9,1.8,1.9,1.7,1.9
+"WMO (1981-2010)","Historical",1.8,1.7,1.8,1.7,1.8,1.7,1.9
+"AR5 (1986-2005)","Historical",1.8,1.7,1.8,1.7,1.8,1.7,1.8
+"AR6 (1995-2014)","Historical",2.0,1.9,2.1,1.9,2.1,1.8,2.2
+
+CORDEX Europe - Bias Adjusted TX40  days - 1981-2010   - July (38 models)-MED

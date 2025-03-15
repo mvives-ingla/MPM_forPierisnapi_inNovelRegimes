@@ -1,0 +1,7 @@
+Period,Scenario,Median,P25,P75,P10,P90,P5,P95
+"Warming 1.5°C","RCP8.5",7.1,6.4,7.7,6.2,7.9,6.2,8.1
+"Warming 2°C","RCP8.5",8.2,7.6,8.9,7.1,9.2,7.0,9.4
+"Warming 3°C","RCP8.5",10.4,9.6,10.8,9.5,11.3,9.2,11.5
+"Warming 4°C","RCP8.5",12.1,11.8,12.5,11.6,13.0,11.3,13.3
+
+CORDEX Europe - Bias Adjusted TX35  days - Warming 1.5°C RCP8.5  - August (36 models)-MED

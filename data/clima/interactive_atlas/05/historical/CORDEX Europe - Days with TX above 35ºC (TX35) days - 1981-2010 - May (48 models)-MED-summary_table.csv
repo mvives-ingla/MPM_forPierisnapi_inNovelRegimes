@@ -1,0 +1,10 @@
+Period,Scenario,Median,P25,P75,P10,P90,P5,P95
+"Preindustrial (1850-1900)","Historical",NaN,NaN,NaN,NaN,NaN,NaN,NaN
+"WMO (1961-1990)","Historical",0.8,0.5,0.9,0.3,1.2,0.3,1.3
+"1961-2015","Historical",0.9,0.5,1.0,0.4,1.3,0.3,1.5
+"1980-2015","Historical",0.8,0.6,1.1,0.4,1.4,0.3,1.6
+"WMO (1981-2010)","Historical",0.8,0.5,1.1,0.4,1.4,0.3,1.6
+"AR5 (1986-2005)","Historical",0.8,0.5,1.0,0.4,1.4,0.3,1.5
+"AR6 (1995-2014)","Historical",1.0,0.6,1.2,0.4,1.5,0.4,1.7
+
+CORDEX Europe - Days with TX above 35ºC (TX35)  days - 1981-2010   - May (48 models)-MED

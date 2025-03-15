@@ -1,0 +1,7 @@
+Period,Scenario,Median,P25,P75,P10,P90,P5,P95
+"Warming 1.5°C","RCP8.5",7.0,6.6,7.6,6.5,8.1,6.4,8.2
+"Warming 2°C","RCP8.5",8.1,7.6,8.4,7.4,9.1,7.3,9.2
+"Warming 3°C","RCP8.5",10.1,9.5,10.6,9.2,10.9,8.9,11.1
+"Warming 4°C","RCP8.5",11.8,11.4,11.9,11.2,12.8,11.1,13.2
+
+CORDEX Europe - Bias Adjusted TX35  days - Warming 1.5°C RCP8.5  - July (36 models)-MED

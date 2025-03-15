@@ -1,0 +1,7 @@
+Period,Scenario,Median,P25,P75,P10,P90,P5,P95
+"Warming 1.5°C","SSP5-8.5",0.1,0.0,0.1,0.0,0.2,0.0,0.8
+"Warming 2°C","SSP5-8.5",0.1,0.0,0.1,0.0,0.3,0.0,1.0
+"Warming 3°C","SSP5-8.5",0.1,0.1,0.3,0.0,0.5,0.0,1.6
+"Warming 4°C","SSP5-8.5",0.2,0.1,0.2,0.1,0.3,0.0,0.3
+
+CMIP6 - Days with TX above 35ºC (TX35)  days - Warming 2°C SSP5-8.5  - March (27 models)-MED

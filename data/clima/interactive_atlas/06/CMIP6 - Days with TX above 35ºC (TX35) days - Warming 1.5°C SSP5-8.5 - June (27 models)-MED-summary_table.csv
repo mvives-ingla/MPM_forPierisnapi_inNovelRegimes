@@ -1,0 +1,7 @@
+Period,Scenario,Median,P25,P75,P10,P90,P5,P95
+"Warming 1.5°C","SSP5-8.5",4.9,3.6,5.8,2.3,11.2,1.7,12.1
+"Warming 2°C","SSP5-8.5",5.6,4.2,6.5,2.9,12.0,2.2,13.6
+"Warming 3°C","SSP5-8.5",7.0,5.7,8.0,4.2,13.5,3.3,14.8
+"Warming 4°C","SSP5-8.5",7.6,6.1,9.3,4.8,9.6,4.5,10.3
+
+CMIP6 - Days with TX above 35ºC (TX35)  days - Warming 1.5°C SSP5-8.5  - June (27 models)-MED
