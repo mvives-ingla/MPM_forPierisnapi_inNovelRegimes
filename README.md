@@ -1,4 +1,4 @@
-# MPM_forPierisnapi_inNovelRegimes
+# A Matrix Population Model (MPM) for the buterrfly <i>Pieris napi</i> in novel regimes of extreme climatic events
 Data and code associated with the manuscript
 Vives-Ingla, M., Capdevila, P., Clements, C. F., Stefanescu, C., & Carnicer, J. (2025). Novel regimes of extreme climatic events trigger negative population rates in a common insect. Global Change Biology.
 
